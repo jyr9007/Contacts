@@ -1,3 +1,35 @@
-.wow {
-  width: 100px;
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff; 
+    color: #333; 
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 24px;
+    color: #00509e; 
+    margin-bottom: 20px;
+}
+
+.contacts {
+    margin-top: 20px;
+}
+
+.contacts div {
+    margin: 10px auto; 
+    padding: 10px;
+    background-color: #e7f3fe; 
+    border-radius: 5px; 
+    width: 80%; 
+}
+
+.contacts div:nth-child(even) {
+    background-color: #cce7ff; 
+
+.goodbye {
+    color: #ff4500; 
+    margin-top: 50px;
+    font-size: 28px;
 }
