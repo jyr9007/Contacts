@@ -43,8 +43,8 @@ function promptUser() {
 
 function displayGoodbyeMessage() {
     document.body.innerHTML = `
-        <h1 class="goodbye">Goodbye!</h1>
-        <p>Thank you for using the Contacts Database. See you next time!</p>
+        <h1 class="goodbye">Goodbye</h1>
+        <p>Thank you.</p>
     `;
 }
 
